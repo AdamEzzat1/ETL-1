@@ -1,1 +1,2 @@
-# ETL projects include: Data Wrangling, Beautiful Soap, and Talend.
+# ETL projects 
+This include set of projects: Data Wrangling, Beautiful Soap, and Talend.
